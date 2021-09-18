@@ -1,5 +1,5 @@
 Package: gatitos
-Title: What the Package Does (One Line, Title Case)
+Title: Pacote De Exemplo Do GitHub Actions
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
