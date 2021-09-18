@@ -4,6 +4,10 @@
 # gatitos
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/curso-r/gatitos/actions/workflows/check-release.yaml/badge.svg)](https://github.com/curso-r/gatitos/actions/workflows/check-release.yaml)
+
+[![render-rmarkdown](https://github.com/curso-r/gatitos/actions/workflows/render-rmarkdown.yaml/badge.svg)](https://github.com/curso-r/gatitos/actions/workflows/render-rmarkdown.yaml)
 <!-- badges: end -->
 
 Plot de um gatinho aleatório.
