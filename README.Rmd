@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
 
 Plot de um gatinho aleatório.
 
-```{r}
+```{r gatito}
 library(gatitos)
 gerar_gatito()
 ```
